@@ -1,0 +1,9 @@
+export const GET_ERRORS = "GET_ERRORS";
+export const GET_DOG = "GET_DOG";
+export const GET_SUCCEEDED = "GET_SUCCEEDED";
+export const GET_FAILED = "GET_FAILED";
+export const REQUEST_DOG = "REQUEST_DOG";
+export const GET_HANDLE = "GET_HANDLE";
+export const REQUEST_PAGE = "REQUEST_PAGE";
+export const GET_PAGE_SUCCEEDED = "GET_PAGE_SUCCEEDED";
+export const GET_PAGE_FAILED = "GET_PAGE_FAILED";
